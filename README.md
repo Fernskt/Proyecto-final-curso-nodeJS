@@ -45,7 +45,7 @@ El token recibido lo debés enviar en el header Authorization de todas las petic
 
 ## 📦 Endpoints de Productos
 
-## 1) Listar todos los productos
+### 1) Listar todos los productos
    
 - GET `/api/products`
 - Headers `Authorization: Bearer TU_TOKEN`
@@ -67,7 +67,7 @@ El token recibido lo debés enviar en el header Authorization de todas las petic
     ```
 
      
-## 2) Obtener prooductos por ID
+### 2) Obtener prooductos por ID
 
    
    
@@ -96,7 +96,7 @@ El token recibido lo debés enviar en el header Authorization de todas las petic
     ```
 
    
-## 3) Crear producto
+### 3) Crear producto
 
    
    
@@ -134,7 +134,7 @@ Respuesta:
 
 
 
-## 4) Actualizar producto
+### 4) Actualizar producto
 
    
    
@@ -172,7 +172,7 @@ Respuesta:
   ```
 
 
-## 5) Eliminar producto
+### 5) Eliminar producto
 
    
    
