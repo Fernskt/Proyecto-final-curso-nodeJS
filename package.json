@@ -1,0 +1,26 @@
+{
+  "name": "nuevo-proyecto",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Nuevo proyecto de Node.js con Express",
+  "main": "index.js",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "dotenv": "^17.2.0",
+    "express": "~4.16.1",
+    "firebase": "^11.10.0",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "~1.9.1"
+  }
+}
